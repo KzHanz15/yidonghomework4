@@ -1,0 +1,7 @@
+[
+  {"id": "B001", "title": "Flutter实战", "category": "技术", "borrowCount": 42},
+  {"id": "B002", "title": "Dart程序设计", "category": "技术", "borrowCount": 35},
+  {"id": "B003", "title": "三体", "category": "科幻", "borrowCount": 58},
+  {"id": "B004", "title": "红楼梦", "category": "文学", "borrowCount": "abc"},
+  {"id": "B005", "title": "活着", "category": "文学", "borrowCount": 47}
+]
